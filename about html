@@ -6,7 +6,8 @@
     <title>about</title>
 </head>
 <body>
-    <a href="index.html">back to home page</a>
+<a href="/my-web-dev-journey-for-html-css-course-0/index.html">back to home page</a>
+    <p>the boy is a girl</p>
     <h1>i am the <sup>1st</sup> john <sub>in town </sub></h1>
 </body>
 </html>
